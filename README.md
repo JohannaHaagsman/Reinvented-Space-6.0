@@ -23,3 +23,4 @@ In this way there should be made a textfile, sort of like this:
 
 Section III: Notes and so
 100 steps is about 60 m (for my body length 165 cm), so 1 step is 60 cm.
+I guess.
